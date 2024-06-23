@@ -1,0 +1,14 @@
+C:\Users\nb163\RiderProjects\pirson\pirson\bin\Debug\net8.0\pirson.exe
+C:\Users\nb163\RiderProjects\pirson\pirson\bin\Debug\net8.0\pirson.deps.json
+C:\Users\nb163\RiderProjects\pirson\pirson\bin\Debug\net8.0\pirson.runtimeconfig.json
+C:\Users\nb163\RiderProjects\pirson\pirson\bin\Debug\net8.0\pirson.dll
+C:\Users\nb163\RiderProjects\pirson\pirson\bin\Debug\net8.0\pirson.pdb
+C:\Users\nb163\RiderProjects\pirson\pirson\obj\Debug\net8.0\pirson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nb163\RiderProjects\pirson\pirson\obj\Debug\net8.0\pirson.AssemblyInfoInputs.cache
+C:\Users\nb163\RiderProjects\pirson\pirson\obj\Debug\net8.0\pirson.AssemblyInfo.cs
+C:\Users\nb163\RiderProjects\pirson\pirson\obj\Debug\net8.0\pirson.csproj.CoreCompileInputs.cache
+C:\Users\nb163\RiderProjects\pirson\pirson\obj\Debug\net8.0\pirson.dll
+C:\Users\nb163\RiderProjects\pirson\pirson\obj\Debug\net8.0\refint\pirson.dll
+C:\Users\nb163\RiderProjects\pirson\pirson\obj\Debug\net8.0\pirson.pdb
+C:\Users\nb163\RiderProjects\pirson\pirson\obj\Debug\net8.0\pirson.genruntimeconfig.cache
+C:\Users\nb163\RiderProjects\pirson\pirson\obj\Debug\net8.0\ref\pirson.dll
